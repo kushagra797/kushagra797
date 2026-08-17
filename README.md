@@ -49,12 +49,9 @@ I'm a Computer Science undergraduate who enjoys turning ideas into working full-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 <br/>
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kushagra797&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=kushagra797&layout=compact&theme=dark&hide_border=true" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra797&theme=dark&hide_border=true" width="85%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra797&theme=react" width="95%" />
 </div>
 <br/>
 
