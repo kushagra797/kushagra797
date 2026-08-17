@@ -7,7 +7,7 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-3b82f6?style=for-the-badge&logo=handshake&logoColor=white)
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=kushagra797&color=3b82f6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/kushagra797?color=3b82f6&style=flat-square&label=Followers)
+![Followers](https://img.shields.io/github/followers/kushagra797?style=flat-square&logo=github&label=Followers&color=3b82f6)
 </div>
 <br/>
 
