@@ -51,9 +51,10 @@ I'm a Computer Science undergraduate who enjoys turning ideas into working full-
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kushagra797&theme=nord&hide_border=true" width="85%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kushagra797&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=kushagra797&layout=compact&theme=nord&hide_border=true" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra797&theme=react&hide_border=true" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=kushagra797&theme=nord&hide_border=true" width="85%" />
 </div>
 <br/>
 
