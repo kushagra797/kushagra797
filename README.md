@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+with+React+%7C+Node.js+%7C+Express.js;Exploring+AI+Integration+with+Gemini+API;Solving+DSA+on+LeetCode+%26+CodeChef;Open+to+Full+Stack+Developer+Roles" alt="Typing SVG" />
   </a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-3b82f6?style=for-the-badge&logo=handshake&logoColor=white" />
+  
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=kushagra797&color=3b82f6&style=flat-square&label=Profile+Views" />
   &nbsp;
